@@ -1,5 +1,5 @@
 function text() {
-  return "TEXT";
+  return "TEXT2";
 }
 
 console.log("Hello");
